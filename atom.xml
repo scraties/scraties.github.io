@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://scraties.github.io</id>
+    <id>https://www.scraty.top</id>
     <title>scraty&apos;s Blog</title>
-    <updated>2021-11-18T09:10:55.445Z</updated>
+    <updated>2021-11-18T09:19:27.478Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://scraties.github.io"/>
-    <link rel="self" href="https://scraties.github.io/atom.xml"/>
-    <logo>https://scraties.github.io/images/avatar.png</logo>
-    <icon>https://scraties.github.io/favicon.ico</icon>
+    <link rel="alternate" href="https://www.scraty.top"/>
+    <link rel="self" href="https://www.scraty.top/atom.xml"/>
+    <logo>https://www.scraty.top/images/avatar.png</logo>
+    <icon>https://www.scraty.top/favicon.ico</icon>
     <rights>All rights reserved 2021, scraty&apos;s Blog</rights>
     <entry>
         <title type="html"><![CDATA[两种结构型设计模式]]></title>
-        <id>https://scraties.github.io/post/TwoStructualPatterns/</id>
-        <link href="https://scraties.github.io/post/TwoStructualPatterns/">
+        <id>https://www.scraty.top/post/TwoStructualPatterns/</id>
+        <link href="https://www.scraty.top/post/TwoStructualPatterns/">
         </link>
         <updated>2021-07-05T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>本文介绍了两种结构型设计模式——适配器模式和装饰器模式。</p>
@@ -110,8 +110,8 @@ public SecureStack extends StackDecorator implements Stack {...}
     </entry>
     <entry>
         <title type="html"><![CDATA[工厂方法设计模式]]></title>
-        <id>https://scraties.github.io/post/FactoryMethodPattern/</id>
-        <link href="https://scraties.github.io/post/FactoryMethodPattern/">
+        <id>https://www.scraty.top/post/FactoryMethodPattern/</id>
+        <link href="https://www.scraty.top/post/FactoryMethodPattern/">
         </link>
         <updated>2021-06-30T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>本文是对工厂方法设计模式的一个介绍。</p>
@@ -158,60 +158,60 @@ Animal animal2 = getAnimal(2);
     </entry>
     <entry>
         <title type="html"><![CDATA[计算机系统大作业-C/C++语言的秘密]]></title>
-        <id>https://scraties.github.io/post/CSAPP/</id>
-        <link href="https://scraties.github.io/post/CSAPP/">
+        <id>https://www.scraty.top/post/CSAPP/</id>
+        <link href="https://www.scraty.top/post/CSAPP/">
         </link>
         <updated>2021-06-29T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>计算机系统大作业，应课程要求发在博客上。</p>
 ]]></summary>
         <content type="html"><![CDATA[<p>计算机系统大作业，应课程要求发在博客上。</p>
 <!--more-->
-<p><img src="https://scraties.github.io/post-images/CSAPP/CS%E5%A4%A7%E4%BD%9C%E4%B8%9A%E8%AE%BA%E6%96%87_page-0002.jpg" alt="2" loading="lazy"><br>
-<img src="https://scraties.github.io/post-images/CSAPP/CS%E5%A4%A7%E4%BD%9C%E4%B8%9A%E8%AE%BA%E6%96%87_page-0003.jpg" alt="3" loading="lazy"><br>
-<img src="https://scraties.github.io/post-images/CSAPP/CS%E5%A4%A7%E4%BD%9C%E4%B8%9A%E8%AE%BA%E6%96%87_page-0004.jpg" alt="4" loading="lazy"><br>
-<img src="https://scraties.github.io/post-images/CSAPP/CS%E5%A4%A7%E4%BD%9C%E4%B8%9A%E8%AE%BA%E6%96%87_page-0005.jpg" alt="5" loading="lazy"><br>
-<img src="https://scraties.github.io/post-images/CSAPP/CS%E5%A4%A7%E4%BD%9C%E4%B8%9A%E8%AE%BA%E6%96%87_page-0006.jpg" alt="6" loading="lazy"><br>
-<img src="https://scraties.github.io/post-images/CSAPP/CS%E5%A4%A7%E4%BD%9C%E4%B8%9A%E8%AE%BA%E6%96%87_page-0007.jpg" alt="7" loading="lazy"><br>
-<img src="https://scraties.github.io/post-images/CSAPP/CS%E5%A4%A7%E4%BD%9C%E4%B8%9A%E8%AE%BA%E6%96%87_page-0008.jpg" alt="8" loading="lazy"><br>
-<img src="https://scraties.github.io/post-images/CSAPP/CS%E5%A4%A7%E4%BD%9C%E4%B8%9A%E8%AE%BA%E6%96%87_page-0009.jpg" alt="9" loading="lazy"><br>
-<img src="https://scraties.github.io/post-images/CSAPP/CS%E5%A4%A7%E4%BD%9C%E4%B8%9A%E8%AE%BA%E6%96%87_page-0010.jpg" alt="10" loading="lazy"><br>
-<img src="https://scraties.github.io/post-images/CSAPP/CS%E5%A4%A7%E4%BD%9C%E4%B8%9A%E8%AE%BA%E6%96%87_page-0011.jpg" alt="11" loading="lazy"><br>
-<img src="https://scraties.github.io/post-images/CSAPP/CS%E5%A4%A7%E4%BD%9C%E4%B8%9A%E8%AE%BA%E6%96%87_page-0012.jpg" alt="12" loading="lazy"><br>
-<img src="https://scraties.github.io/post-images/CSAPP/CS%E5%A4%A7%E4%BD%9C%E4%B8%9A%E8%AE%BA%E6%96%87_page-0013.jpg" alt="13" loading="lazy"><br>
-<img src="https://scraties.github.io/post-images/CSAPP/CS%E5%A4%A7%E4%BD%9C%E4%B8%9A%E8%AE%BA%E6%96%87_page-0014.jpg" alt="14" loading="lazy"><br>
-<img src="https://scraties.github.io/post-images/CSAPP/CS%E5%A4%A7%E4%BD%9C%E4%B8%9A%E8%AE%BA%E6%96%87_page-0015.jpg" alt="15" loading="lazy"><br>
-<img src="https://scraties.github.io/post-images/CSAPP/CS%E5%A4%A7%E4%BD%9C%E4%B8%9A%E8%AE%BA%E6%96%87_page-0016.jpg" alt="16" loading="lazy"><br>
-<img src="https://scraties.github.io/post-images/CSAPP/CS%E5%A4%A7%E4%BD%9C%E4%B8%9A%E8%AE%BA%E6%96%87_page-0017.jpg" alt="17" loading="lazy"><br>
-<img src="https://scraties.github.io/post-images/CSAPP/CS%E5%A4%A7%E4%BD%9C%E4%B8%9A%E8%AE%BA%E6%96%87_page-0018.jpg" alt="18" loading="lazy"><br>
-<img src="https://scraties.github.io/post-images/CSAPP/CS%E5%A4%A7%E4%BD%9C%E4%B8%9A%E8%AE%BA%E6%96%87_page-0019.jpg" alt="19" loading="lazy"><br>
-<img src="https://scraties.github.io/post-images/CSAPP/CS%E5%A4%A7%E4%BD%9C%E4%B8%9A%E8%AE%BA%E6%96%87_page-0020.jpg" alt="20" loading="lazy"><br>
-<img src="https://scraties.github.io/post-images/CSAPP/CS%E5%A4%A7%E4%BD%9C%E4%B8%9A%E8%AE%BA%E6%96%87_page-0021.jpg" alt="21" loading="lazy"><br>
-<img src="https://scraties.github.io/post-images/CSAPP/CS%E5%A4%A7%E4%BD%9C%E4%B8%9A%E8%AE%BA%E6%96%87_page-0022.jpg" alt="22" loading="lazy"><br>
-<img src="https://scraties.github.io/post-images/CSAPP/CS%E5%A4%A7%E4%BD%9C%E4%B8%9A%E8%AE%BA%E6%96%87_page-0023.jpg" alt="23" loading="lazy"><br>
-<img src="https://scraties.github.io/post-images/CSAPP/CS%E5%A4%A7%E4%BD%9C%E4%B8%9A%E8%AE%BA%E6%96%87_page-0024.jpg" alt="24" loading="lazy"><br>
-<img src="https://scraties.github.io/post-images/CSAPP/CS%E5%A4%A7%E4%BD%9C%E4%B8%9A%E8%AE%BA%E6%96%87_page-0025.jpg" alt="25" loading="lazy"><br>
-<img src="https://scraties.github.io/post-images/CSAPP/CS%E5%A4%A7%E4%BD%9C%E4%B8%9A%E8%AE%BA%E6%96%87_page-0026.jpg" alt="26" loading="lazy"><br>
-<img src="https://scraties.github.io/post-images/CSAPP/CS%E5%A4%A7%E4%BD%9C%E4%B8%9A%E8%AE%BA%E6%96%87_page-0027.jpg" alt="27" loading="lazy"><br>
-<img src="https://scraties.github.io/post-images/CSAPP/CS%E5%A4%A7%E4%BD%9C%E4%B8%9A%E8%AE%BA%E6%96%87_page-0028.jpg" alt="28" loading="lazy"><br>
-<img src="https://scraties.github.io/post-images/CSAPP/CS%E5%A4%A7%E4%BD%9C%E4%B8%9A%E8%AE%BA%E6%96%87_page-0029.jpg" alt="29" loading="lazy"><br>
-<img src="https://scraties.github.io/post-images/CSAPP/CS%E5%A4%A7%E4%BD%9C%E4%B8%9A%E8%AE%BA%E6%96%87_page-0030.jpg" alt="30" loading="lazy"><br>
-<img src="https://scraties.github.io/post-images/CSAPP/CS%E5%A4%A7%E4%BD%9C%E4%B8%9A%E8%AE%BA%E6%96%87_page-0031.jpg" alt="31" loading="lazy"><br>
-<img src="https://scraties.github.io/post-images/CSAPP/CS%E5%A4%A7%E4%BD%9C%E4%B8%9A%E8%AE%BA%E6%96%87_page-0032.jpg" alt="32" loading="lazy"><br>
-<img src="https://scraties.github.io/post-images/CSAPP/CS%E5%A4%A7%E4%BD%9C%E4%B8%9A%E8%AE%BA%E6%96%87_page-0033.jpg" alt="33" loading="lazy"><br>
-<img src="https://scraties.github.io/post-images/CSAPP/CS%E5%A4%A7%E4%BD%9C%E4%B8%9A%E8%AE%BA%E6%96%87_page-0034.jpg" alt="34" loading="lazy"><br>
-<img src="https://scraties.github.io/post-images/CSAPP/CS%E5%A4%A7%E4%BD%9C%E4%B8%9A%E8%AE%BA%E6%96%87_page-0035.jpg" alt="35" loading="lazy"><br>
-<img src="https://scraties.github.io/post-images/CSAPP/CS%E5%A4%A7%E4%BD%9C%E4%B8%9A%E8%AE%BA%E6%96%87_page-0036.jpg" alt="36" loading="lazy"><br>
-<img src="https://scraties.github.io/post-images/CSAPP/CS%E5%A4%A7%E4%BD%9C%E4%B8%9A%E8%AE%BA%E6%96%87_page-0037.jpg" alt="37" loading="lazy"><br>
-<img src="https://scraties.github.io/post-images/CSAPP/CS%E5%A4%A7%E4%BD%9C%E4%B8%9A%E8%AE%BA%E6%96%87_page-0038.jpg" alt="38" loading="lazy"><br>
-<img src="https://scraties.github.io/post-images/CSAPP/CS%E5%A4%A7%E4%BD%9C%E4%B8%9A%E8%AE%BA%E6%96%87_page-0039.jpg" alt="39" loading="lazy"><br>
-<img src="https://scraties.github.io/post-images/CSAPP/CS%E5%A4%A7%E4%BD%9C%E4%B8%9A%E8%AE%BA%E6%96%87_page-0040.jpg" alt="40" loading="lazy"><br>
-<img src="https://scraties.github.io/post-images/CSAPP/CS%E5%A4%A7%E4%BD%9C%E4%B8%9A%E8%AE%BA%E6%96%87_page-0041.jpg" alt="41" loading="lazy"></p>
+<p><img src="https://www.scraty.top/post-images/CSAPP/CS%E5%A4%A7%E4%BD%9C%E4%B8%9A%E8%AE%BA%E6%96%87_page-0002.jpg" alt="2" loading="lazy"><br>
+<img src="https://www.scraty.top/post-images/CSAPP/CS%E5%A4%A7%E4%BD%9C%E4%B8%9A%E8%AE%BA%E6%96%87_page-0003.jpg" alt="3" loading="lazy"><br>
+<img src="https://www.scraty.top/post-images/CSAPP/CS%E5%A4%A7%E4%BD%9C%E4%B8%9A%E8%AE%BA%E6%96%87_page-0004.jpg" alt="4" loading="lazy"><br>
+<img src="https://www.scraty.top/post-images/CSAPP/CS%E5%A4%A7%E4%BD%9C%E4%B8%9A%E8%AE%BA%E6%96%87_page-0005.jpg" alt="5" loading="lazy"><br>
+<img src="https://www.scraty.top/post-images/CSAPP/CS%E5%A4%A7%E4%BD%9C%E4%B8%9A%E8%AE%BA%E6%96%87_page-0006.jpg" alt="6" loading="lazy"><br>
+<img src="https://www.scraty.top/post-images/CSAPP/CS%E5%A4%A7%E4%BD%9C%E4%B8%9A%E8%AE%BA%E6%96%87_page-0007.jpg" alt="7" loading="lazy"><br>
+<img src="https://www.scraty.top/post-images/CSAPP/CS%E5%A4%A7%E4%BD%9C%E4%B8%9A%E8%AE%BA%E6%96%87_page-0008.jpg" alt="8" loading="lazy"><br>
+<img src="https://www.scraty.top/post-images/CSAPP/CS%E5%A4%A7%E4%BD%9C%E4%B8%9A%E8%AE%BA%E6%96%87_page-0009.jpg" alt="9" loading="lazy"><br>
+<img src="https://www.scraty.top/post-images/CSAPP/CS%E5%A4%A7%E4%BD%9C%E4%B8%9A%E8%AE%BA%E6%96%87_page-0010.jpg" alt="10" loading="lazy"><br>
+<img src="https://www.scraty.top/post-images/CSAPP/CS%E5%A4%A7%E4%BD%9C%E4%B8%9A%E8%AE%BA%E6%96%87_page-0011.jpg" alt="11" loading="lazy"><br>
+<img src="https://www.scraty.top/post-images/CSAPP/CS%E5%A4%A7%E4%BD%9C%E4%B8%9A%E8%AE%BA%E6%96%87_page-0012.jpg" alt="12" loading="lazy"><br>
+<img src="https://www.scraty.top/post-images/CSAPP/CS%E5%A4%A7%E4%BD%9C%E4%B8%9A%E8%AE%BA%E6%96%87_page-0013.jpg" alt="13" loading="lazy"><br>
+<img src="https://www.scraty.top/post-images/CSAPP/CS%E5%A4%A7%E4%BD%9C%E4%B8%9A%E8%AE%BA%E6%96%87_page-0014.jpg" alt="14" loading="lazy"><br>
+<img src="https://www.scraty.top/post-images/CSAPP/CS%E5%A4%A7%E4%BD%9C%E4%B8%9A%E8%AE%BA%E6%96%87_page-0015.jpg" alt="15" loading="lazy"><br>
+<img src="https://www.scraty.top/post-images/CSAPP/CS%E5%A4%A7%E4%BD%9C%E4%B8%9A%E8%AE%BA%E6%96%87_page-0016.jpg" alt="16" loading="lazy"><br>
+<img src="https://www.scraty.top/post-images/CSAPP/CS%E5%A4%A7%E4%BD%9C%E4%B8%9A%E8%AE%BA%E6%96%87_page-0017.jpg" alt="17" loading="lazy"><br>
+<img src="https://www.scraty.top/post-images/CSAPP/CS%E5%A4%A7%E4%BD%9C%E4%B8%9A%E8%AE%BA%E6%96%87_page-0018.jpg" alt="18" loading="lazy"><br>
+<img src="https://www.scraty.top/post-images/CSAPP/CS%E5%A4%A7%E4%BD%9C%E4%B8%9A%E8%AE%BA%E6%96%87_page-0019.jpg" alt="19" loading="lazy"><br>
+<img src="https://www.scraty.top/post-images/CSAPP/CS%E5%A4%A7%E4%BD%9C%E4%B8%9A%E8%AE%BA%E6%96%87_page-0020.jpg" alt="20" loading="lazy"><br>
+<img src="https://www.scraty.top/post-images/CSAPP/CS%E5%A4%A7%E4%BD%9C%E4%B8%9A%E8%AE%BA%E6%96%87_page-0021.jpg" alt="21" loading="lazy"><br>
+<img src="https://www.scraty.top/post-images/CSAPP/CS%E5%A4%A7%E4%BD%9C%E4%B8%9A%E8%AE%BA%E6%96%87_page-0022.jpg" alt="22" loading="lazy"><br>
+<img src="https://www.scraty.top/post-images/CSAPP/CS%E5%A4%A7%E4%BD%9C%E4%B8%9A%E8%AE%BA%E6%96%87_page-0023.jpg" alt="23" loading="lazy"><br>
+<img src="https://www.scraty.top/post-images/CSAPP/CS%E5%A4%A7%E4%BD%9C%E4%B8%9A%E8%AE%BA%E6%96%87_page-0024.jpg" alt="24" loading="lazy"><br>
+<img src="https://www.scraty.top/post-images/CSAPP/CS%E5%A4%A7%E4%BD%9C%E4%B8%9A%E8%AE%BA%E6%96%87_page-0025.jpg" alt="25" loading="lazy"><br>
+<img src="https://www.scraty.top/post-images/CSAPP/CS%E5%A4%A7%E4%BD%9C%E4%B8%9A%E8%AE%BA%E6%96%87_page-0026.jpg" alt="26" loading="lazy"><br>
+<img src="https://www.scraty.top/post-images/CSAPP/CS%E5%A4%A7%E4%BD%9C%E4%B8%9A%E8%AE%BA%E6%96%87_page-0027.jpg" alt="27" loading="lazy"><br>
+<img src="https://www.scraty.top/post-images/CSAPP/CS%E5%A4%A7%E4%BD%9C%E4%B8%9A%E8%AE%BA%E6%96%87_page-0028.jpg" alt="28" loading="lazy"><br>
+<img src="https://www.scraty.top/post-images/CSAPP/CS%E5%A4%A7%E4%BD%9C%E4%B8%9A%E8%AE%BA%E6%96%87_page-0029.jpg" alt="29" loading="lazy"><br>
+<img src="https://www.scraty.top/post-images/CSAPP/CS%E5%A4%A7%E4%BD%9C%E4%B8%9A%E8%AE%BA%E6%96%87_page-0030.jpg" alt="30" loading="lazy"><br>
+<img src="https://www.scraty.top/post-images/CSAPP/CS%E5%A4%A7%E4%BD%9C%E4%B8%9A%E8%AE%BA%E6%96%87_page-0031.jpg" alt="31" loading="lazy"><br>
+<img src="https://www.scraty.top/post-images/CSAPP/CS%E5%A4%A7%E4%BD%9C%E4%B8%9A%E8%AE%BA%E6%96%87_page-0032.jpg" alt="32" loading="lazy"><br>
+<img src="https://www.scraty.top/post-images/CSAPP/CS%E5%A4%A7%E4%BD%9C%E4%B8%9A%E8%AE%BA%E6%96%87_page-0033.jpg" alt="33" loading="lazy"><br>
+<img src="https://www.scraty.top/post-images/CSAPP/CS%E5%A4%A7%E4%BD%9C%E4%B8%9A%E8%AE%BA%E6%96%87_page-0034.jpg" alt="34" loading="lazy"><br>
+<img src="https://www.scraty.top/post-images/CSAPP/CS%E5%A4%A7%E4%BD%9C%E4%B8%9A%E8%AE%BA%E6%96%87_page-0035.jpg" alt="35" loading="lazy"><br>
+<img src="https://www.scraty.top/post-images/CSAPP/CS%E5%A4%A7%E4%BD%9C%E4%B8%9A%E8%AE%BA%E6%96%87_page-0036.jpg" alt="36" loading="lazy"><br>
+<img src="https://www.scraty.top/post-images/CSAPP/CS%E5%A4%A7%E4%BD%9C%E4%B8%9A%E8%AE%BA%E6%96%87_page-0037.jpg" alt="37" loading="lazy"><br>
+<img src="https://www.scraty.top/post-images/CSAPP/CS%E5%A4%A7%E4%BD%9C%E4%B8%9A%E8%AE%BA%E6%96%87_page-0038.jpg" alt="38" loading="lazy"><br>
+<img src="https://www.scraty.top/post-images/CSAPP/CS%E5%A4%A7%E4%BD%9C%E4%B8%9A%E8%AE%BA%E6%96%87_page-0039.jpg" alt="39" loading="lazy"><br>
+<img src="https://www.scraty.top/post-images/CSAPP/CS%E5%A4%A7%E4%BD%9C%E4%B8%9A%E8%AE%BA%E6%96%87_page-0040.jpg" alt="40" loading="lazy"><br>
+<img src="https://www.scraty.top/post-images/CSAPP/CS%E5%A4%A7%E4%BD%9C%E4%B8%9A%E8%AE%BA%E6%96%87_page-0041.jpg" alt="41" loading="lazy"></p>
 ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[泛型的类型擦除]]></title>
-        <id>https://scraties.github.io/post/TypeErasure/</id>
-        <link href="https://scraties.github.io/post/TypeErasure/">
+        <id>https://www.scraty.top/post/TypeErasure/</id>
+        <link href="https://www.scraty.top/post/TypeErasure/">
         </link>
         <updated>2021-06-26T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>本文主要介绍泛型在虚拟机中的实现——使用类型擦除的方法。</p>
@@ -371,8 +371,8 @@ Employee buddy = buddies.getFirst();
     </entry>
     <entry>
         <title type="html"><![CDATA[异常类的创建与序列化]]></title>
-        <id>https://scraties.github.io/post/MyExceptionAndSerialization/</id>
-        <link href="https://scraties.github.io/post/MyExceptionAndSerialization/">
+        <id>https://www.scraty.top/post/MyExceptionAndSerialization/</id>
+        <link href="https://www.scraty.top/post/MyExceptionAndSerialization/">
         </link>
         <updated>2021-06-17T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>本文首先介绍了Java异常类的层次结构，然后描述了如何<strong>创建异常类</strong>，最后介绍了在创建异常类的过程中会<strong>遇到的序列化问题</strong>。</p>
@@ -391,7 +391,7 @@ Employee buddy = buddies.getFirst();
 <p>（注意：<strong><code>IOException</code>只是其他异常的一种</strong>）</p>
 </li>
 </ul>
-<figure data-type="image" tabindex="1"><img src="https://scraties.github.io/post-images/1637209079669.png" alt="Java中的异常层次结构" loading="lazy"></figure>
+<figure data-type="image" tabindex="1"><img src="https://www.scraty.top/post-images/1637209079669.png" alt="Java中的异常层次结构" loading="lazy"></figure>
 <p>区分<code>RuntimeException</code>和其他异常的一般规则是：</p>
 <ul>
 <li>由于<strong>编程错误</strong>导致的异常属于<code>RuntimeException</code></li>
@@ -483,8 +483,8 @@ Employee buddy = buddies.getFirst();
     </entry>
     <entry>
         <title type="html"><![CDATA[ADT小结]]></title>
-        <id>https://scraties.github.io/post/ADT/</id>
-        <link href="https://scraties.github.io/post/ADT/">
+        <id>https://www.scraty.top/post/ADT/</id>
+        <link href="https://www.scraty.top/post/ADT/">
         </link>
         <updated>2021-05-30T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>本文是对ADT相关知识点的总结。</p>
